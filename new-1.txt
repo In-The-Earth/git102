@@ -2,4 +2,4 @@ add new-1.txt in git1022
 
 as secondary deverloper
 
-user2 change info in new-1.txt
+user2 change info in new-1.txt again
