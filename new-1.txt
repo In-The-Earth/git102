@@ -2,4 +2,8 @@ add new-1.txt in git102
 
 as secondary deverloper
 
+<<<<<<< HEAD
 user1
+=======
+user2 change info in new-1.txt again
+>>>>>>> 991fcc6876ea96fc7f0a4a43b8df8462f29072f8
